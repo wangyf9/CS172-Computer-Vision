@@ -12,3 +12,10 @@ This repository contains [homework](https://github.com/wangyf9/CS172-Computer-Vi
     - fine-tune SVM classifier
   - DCGAN
     - CNN(convolution and deconvolution) + GAN(generator and discriminator)
+- HW2
+  - Point Cloud
+    - Basic grammer
+    - Point Cloud Registration
+      - ICP
+      - ICP with RANSAC
+![hw2](/hw/hw2/imgs/overview.png)
